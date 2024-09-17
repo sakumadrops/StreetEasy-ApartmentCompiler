@@ -19,8 +19,8 @@ Looking for an apartment is a very long and tedious process and StreetEasy defin
 # Instructions:
 
 1. Choose the neighborhood on StreetEasy
-2. Copy the URL of the results page into the code
-3. Run the Google Colab cells in order
+2. Run the code
+3. Enter the neighborhood into the console when prompted
 4. Get output of apartment listings
 
 # Code Explanation:
